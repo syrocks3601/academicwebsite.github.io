@@ -35,12 +35,12 @@ Hobbies
 * Traveling alone
 
 
-<p style="display: flex; justify-content: space-around;">
-  <img src="/academicwebsite.github.io/images/PHOTO_0437.jpeg" alt="At Sapporo, Japan" width="200px">
-  <img src="/academicwebsite.github.io/images/IMG_0465.jpeg" alt="At Kyoto, Japan" width="200px">
-  <img src="/academicwebsite.github.io/images/IMG_2753.jpeg" alt="My Coffee Machine" width="200px">
-  <img src="/academicwebsite.github.io/images/IMG_2861.jpeg" alt="Playing Tennis" width="200px">
-</p>
+<div style="display: flex; justify-content: space-between;">
+  <img src="/academicwebsite.github.io/images/PHOTO_0437.jpeg" alt="At Sapporo, Japan" width="25%">
+  <img src="/academicwebsite.github.io/images/IMG_0465.jpeg" alt="At Kyoto, Japan" width="25%">
+  <img src="/academicwebsite.github.io/images/IMG_2753.jpeg" alt="My Coffee Machine" width="25%">
+  <img src="/academicwebsite.github.io/images/IMG_2861.jpeg" alt="Playing Tennis" width="25%">
+</div>
 
 
 <!-- ![At Sapporo, Japan](../images/PHOTO_0437.jpeg)
