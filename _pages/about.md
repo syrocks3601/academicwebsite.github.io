@@ -35,16 +35,16 @@ Hobbies
 
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
-  <div style="width: 200px; height: 300px; border-radius: 25%; overflow: hidden; display: flex; align-items: center; justify-content: center;">
+  <div style="width: 150px; height: 150px; border-radius: 25%; overflow: hidden; display: flex; align-items: center; justify-content: center;">
     <img src="/academicwebsite.github.io/images/IMG_2861.jpeg" alt="Playing Tennis" style="width: 100%; height: auto;">
   </div>
-  <div style="width: 200px; height: 300px; border-radius: 25%; overflow: hidden; display: flex; align-items: center; justify-content: center;">
+  <div style="width: 150px; height: 150px; border-radius: 25%; overflow: hidden; display: flex; align-items: center; justify-content: center;">
     <img src="/academicwebsite.github.io/images/PHOTO_0437.jpeg" alt="At Sapporo, Japan" style="width: 100%; height: auto;">
   </div>
-  <div style="width: 200px; height: 300px; border-radius: 25%; overflow: hidden; display: flex; align-items: center; justify-content: center;">
+  <div style="width: 150px; height: 150px; border-radius: 25%; overflow: hidden; display: flex; align-items: center; justify-content: center;">
     <img src="/academicwebsite.github.io/images/IMG_2753.jpeg" alt="My Coffee Machine" style="width: 100%; height: auto;">
   </div>
-  <div style="width: 200px; height: 300px; border-radius: 25%; overflow: hidden; display: flex; align-items: center; justify-content: center;">
+  <div style="width: 150px; height: 150px; border-radius: 25%; overflow: hidden; display: flex; align-items: center; justify-content: center;">
     <img src="/academicwebsite.github.io/images/IMG_0465.jpeg" alt="At Kyoto, Japan" style="width: 100%; height: auto;">
   </div>
 </div>
