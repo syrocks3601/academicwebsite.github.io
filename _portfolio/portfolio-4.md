@@ -4,7 +4,7 @@ excerpt: "The Chimney<br/><img src='../images/2-2.jpg'>"
 collection: portfolio
 ---
 
-![Main Image](../images/2-2.jpg)
+![Main Image](/images/2-2.jpg)
 
 Title: The Chimney  
 Project Type: Community Center  
