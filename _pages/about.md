@@ -10,7 +10,7 @@ redirect_from:
 
 Hi!  
 I am an undergraduate student at Yonsei University, Seoul. I study Architecture for major and Computer Science as minor.  
-My vision is contributing to human race by problem solving.
+My vision is contributing to human race by problem solving. Studying architecture was an important phase for me since it addresses how to solve problems in city, buildings and of course, human. Computer programming is also one of the fastest, strongest way of solving problems. My key question is always 'why?' Insight on what the real problem is indeed the most significant agenda in the era of uncertainty.  
 
 Interest Area
 ======
@@ -22,7 +22,15 @@ Interest Area
 * Architectural Design
   * Tectonic
 
-
+Hobbies
+======
+* Sports
+  * Tennis
+  * Alpine Skiing
+  * Weight Training
+  * Pilates
+* Enjoying coffee from roasting to latte art
+* Listening to music
 
 
 <!-- ---
