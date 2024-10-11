@@ -9,13 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-<span style="font-weight: normal;">이것은 두껍지 않은 텍스트입니다.</span>
 
-<span style="font-weight: bold;">Education</span>
+Education
 ======
-* B.S. in Computer Science (Minor), Yonsei University, 2026 (expected)
 * Bachelor of Architecture, Yonsei University, 2026 (expected)
   * KAAB(Korea Architectural Accrediting Board) 5-year program
+* B.S. in Computer Science (Minor), Yonsei University, 2026 (expected)
 
 Work Experience
 ======
