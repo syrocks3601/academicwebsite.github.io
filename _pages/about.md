@@ -34,11 +34,11 @@ Hobbies
 * Traveling alone
 
 
-<div style="display: flex; justify-content: space-around;">
-  <img src="/academicwebsite.github.io/images/PHOTO_0437.jpeg" alt="At Sapporo, Japan" style="height: 200px; width: auto;">
-  <img src="/academicwebsite.github.io/images/IMG_0465.jpeg" alt="At Kyoto, Japan" style="height: 200px; width: auto;">
-  <img src="/academicwebsite.github.io/images/IMG_2753.jpeg" alt="My Coffee Machine" style="height: 200px; width: auto;">
-  <img src="/academicwebsite.github.io/images/IMG_2861.jpeg" alt="Playing Tennis" style="height: 200px; width: auto;">
+<div style="display: flex; justify-content: space-around; align-items: center;">
+  <img src="/academicwebsite.github.io/images/PHOTO_0437.jpeg" alt="At Sapporo, Japan" style="height: 200px; width: 200px; border-radius: 25%; object-fit: cover;">
+  <img src="/academicwebsite.github.io/images/IMG_0465.jpeg" alt="At Kyoto, Japan" style="height: 200px; width: 200px; border-radius: 25%; object-fit: cover;">
+  <img src="/academicwebsite.github.io/images/IMG_2753.jpeg" alt="My Coffee Machine" style="height: 200px; width: 200px; border-radius: 25%; object-fit: cover;">
+  <img src="/academicwebsite.github.io/images/IMG_2861.jpeg" alt="Playing Tennis" style="height: 200px; width: 200px; border-radius: 25%; object-fit: cover;">
 </div>
 
 
