@@ -4,7 +4,7 @@ excerpt: "Re-Conquer the Space<br/><img src='../images/3-2.jpg'>"
 collection: portfolio
 ---
 
-![Main Image](/images/3-2.jpg)
+![Main Image](../images/3-2.jpg)
 
 Title: Re-Conquer the Space  
 Project Type: Social Housing  
