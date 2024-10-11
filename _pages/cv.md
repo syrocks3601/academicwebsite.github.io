@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-
+======
 Education
 ======
 * Bachelor of Architecture, Yonsei University, 2026 (expected)
