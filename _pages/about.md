@@ -31,7 +31,21 @@ Hobbies
   * Pilates
 * Enjoying coffee from roasting to latte art
 * Listening to music
+* Traveling alone
 
+
+<p style="display: flex; justify-content: space-around;">
+  <img src="../images/PHOTO_0437.jpeg" alt="At Sapporo, Japan" width="200px">
+  <img src="../images/IMG_0465.jpeg" alt="At Kyoto, Japan" width="200px">
+  <img src="../images/IMG_2753.jpeg" alt="My Coffee Machine" width="200px">
+  <img src="../images/IMG_2861.jpeg" alt="Playing Tennis" width="200px">
+</p>
+
+
+<!-- ![At Sapporo, Japan](../images/PHOTO_0437.jpeg)
+![At Kyoto, Japan](../images/IMG_0465.jpeg)
+![My Coffee Machine](../images/IMG_2753.jpeg)
+![Playing Tennis](../images/IMG_2861.jpeg) -->
 
 <!-- ---
 permalink: /
