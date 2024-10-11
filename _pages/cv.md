@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+------
 * B.S. in Computer Science (Minor), Yonsei University, 2026 (expected)
 * Bachelor of Architecture, Yonsei University, 2026 (expected)
   * KAAB(Korea Architectural Accrediting Board) 5-year program
