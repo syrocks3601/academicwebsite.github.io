@@ -36,16 +36,16 @@ Hobbies
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
   <div style="width: 200px; height: 200px; border-radius: 25%; overflow: hidden; display: flex; align-items: center; justify-content: center;">
-    <img src="/academicwebsite.github.io/images/IMG_2861.jpeg" alt="Playing Tennis" style="width: auto; height: 100%;">
+    <img src="/academicwebsite.github.io/images/IMG_2861.jpeg" alt="Playing Tennis" style="width: auto; height: auto;">
   </div>
   <div style="width: 200px; height: 200px; border-radius: 25%; overflow: hidden; display: flex; align-items: center; justify-content: center;">
-    <img src="/academicwebsite.github.io/images/PHOTO_0437.jpeg" alt="At Sapporo, Japan" style="width: auto; height: 100%;">
+    <img src="/academicwebsite.github.io/images/PHOTO_0437.jpeg" alt="At Sapporo, Japan" style="width: auto; height: auto;">
   </div>
   <div style="width: 200px; height: 200px; border-radius: 25%; overflow: hidden; display: flex; align-items: center; justify-content: center;">
-    <img src="/academicwebsite.github.io/images/IMG_2753.jpeg" alt="My Coffee Machine" style="width: auto; height: 100%;">
+    <img src="/academicwebsite.github.io/images/IMG_2753.jpeg" alt="My Coffee Machine" style="width: auto; height: auto;">
   </div>
   <div style="width: 200px; height: 200px; border-radius: 25%; overflow: hidden; display: flex; align-items: center; justify-content: center;">
-    <img src="/academicwebsite.github.io/images/IMG_0465.jpeg" alt="At Kyoto, Japan" style="width: auto; height: 100%;">
+    <img src="/academicwebsite.github.io/images/IMG_0465.jpeg" alt="At Kyoto, Japan" style="width: auto; height: auto;">
   </div>
 </div>
 
