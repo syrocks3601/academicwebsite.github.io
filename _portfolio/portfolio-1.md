@@ -1,7 +1,11 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Architectural Design Studio 5"
+excerpt: "Time-Threshold<br/><img src='/images/4-1.jpg'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+![Architectural Design Studio 5](/images/4-1.jpg)
+
+Title: Time-Threshold  
+Project Type: Re-Construction  
+Location: Euljiro-dong, Jung-gu, Seoul
