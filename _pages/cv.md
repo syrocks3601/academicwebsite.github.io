@@ -11,7 +11,7 @@ redirect_from:
 
 <span style="font-weight: normal;">이것은 두껍지 않은 텍스트입니다.</span>
 
-Education
+<span style="font-weight: bold;">Education</span>
 ======
 * B.S. in Computer Science (Minor), Yonsei University, 2026 (expected)
 * Bachelor of Architecture, Yonsei University, 2026 (expected)
