@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! </br>I am an undergraduate student at Yonsei University, Seoul. I study Architecture for major and Computer Science as minor. </br>My vision is contributing to human race by problem solving.
+Hi!  
+I am an undergraduate student at Yonsei University, Seoul. I study Architecture for major and Computer Science as minor.  
+My vision is contributing to human race by problem solving.
 
 Interest Area
 ======
