@@ -9,8 +9,7 @@ redirect_from:
   - 
 ---
 
-I am an undergraduate student at Yonsei University, Seoul. I study Architecture for major and Computer Science as minor.  
-My vision is contributing to human race by problem solving. Studying architecture was an important phase for me since it addresses how to solve problems in city, buildings and of course, human. Computer programming is also one of the fastest, strongest way of solving problems. My key question is always 'why?' Insight on what the real problem is indeed the most significant agenda in the era of uncertainty.  
+I am an undergraduate student at Yonsei University in Seoul, majoring in Architecture and minoring in Computer Science. My vision is to contribute to humanity by solving problems. Studying architecture has been a crucial phase for me, as it addresses how to solve challenges related to cities, buildings, and, most importantly, people. Computer programming is also one of the fastest and most powerful tools for problem-solving. My guiding question is always, 'Why?' Gaining insight into the real problems is the most significant agenda in this era of uncertainty.  
 
 Interest Area
 ======
