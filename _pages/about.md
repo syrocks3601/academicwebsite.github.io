@@ -9,7 +9,6 @@ redirect_from:
   - 
 ---
 
-Hi!  
 I am an undergraduate student at Yonsei University, Seoul. I study Architecture for major and Computer Science as minor.  
 My vision is contributing to human race by problem solving. Studying architecture was an important phase for me since it addresses how to solve problems in city, buildings and of course, human. Computer programming is also one of the fastest, strongest way of solving problems. My key question is always 'why?' Insight on what the real problem is indeed the most significant agenda in the era of uncertainty.  
 
@@ -35,11 +34,11 @@ Hobbies
 * Traveling alone
 
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="/academicwebsite.github.io/images/PHOTO_0437.jpeg" alt="At Sapporo, Japan" width="25%">
-  <img src="/academicwebsite.github.io/images/IMG_0465.jpeg" alt="At Kyoto, Japan" width="25%">
-  <img src="/academicwebsite.github.io/images/IMG_2753.jpeg" alt="My Coffee Machine" width="25%">
-  <img src="/academicwebsite.github.io/images/IMG_2861.jpeg" alt="Playing Tennis" width="25%">
+<div style="display: flex; justify-content: space-around;">
+  <img src="/academicwebsite.github.io/images/PHOTO_0437.jpeg" alt="At Sapporo, Japan" style="height: 200px; width: auto;">
+  <img src="/academicwebsite.github.io/images/IMG_0465.jpeg" alt="At Kyoto, Japan" style="height: 200px; width: auto;">
+  <img src="/academicwebsite.github.io/images/IMG_2753.jpeg" alt="My Coffee Machine" style="height: 200px; width: auto;">
+  <img src="/academicwebsite.github.io/images/IMG_2861.jpeg" alt="Playing Tennis" style="height: 200px; width: auto;">
 </div>
 
 
