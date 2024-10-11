@@ -13,7 +13,7 @@ I am an undergraduate student at Yonsei University, Seoul. I study Architecture 
 My vision is contributing to human race by problem solving. Studying architecture was an important phase for me since it addresses how to solve problems in city, buildings and of course, human. Computer programming is also one of the fastest, strongest way of solving problems. My key question is always 'why?' Insight on what the real problem is indeed the most significant agenda in the era of uncertainty.  
 
 Interest Area
-======
+===
 * Property Management
   * Real Estate
 * Computer Programming
