@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink:
 title: "About Me"
 author_profile: true
 redirect_from: 
@@ -35,10 +35,10 @@ Hobbies
 
 
 <p style="display: flex; justify-content: space-around;">
-  <img src="../images/PHOTO_0437.jpeg" alt="At Sapporo, Japan" width="200px">
-  <img src="../images/IMG_0465.jpeg" alt="At Kyoto, Japan" width="200px">
-  <img src="../images/IMG_2753.jpeg" alt="My Coffee Machine" width="200px">
-  <img src="../images/IMG_2861.jpeg" alt="Playing Tennis" width="200px">
+  <img src="/academicwebsite.github.io/images/PHOTO_0437.jpeg" alt="At Sapporo, Japan" width="200px">
+  <img src="/academicwebsite.github.io/images/IMG_0465.jpeg" alt="At Kyoto, Japan" width="200px">
+  <img src="/academicwebsite.github.io/images/IMG_2753.jpeg" alt="My Coffee Machine" width="200px">
+  <img src="/academicwebsite.github.io/images/IMG_2861.jpeg" alt="Playing Tennis" width="200px">
 </p>
 
 
