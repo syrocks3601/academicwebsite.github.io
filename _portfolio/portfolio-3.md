@@ -4,8 +4,9 @@ excerpt: "Re-Phrase Seoul<br/><img src='../images/3-1.jpg'>"
 collection: portfolio
 ---
 
-![Main Image](/images/3-1.jpg)
 
 Title: Re-Phrase Seoul  
 Project Type: Re-Construction  
 Location: Seogye-dong, Yongsan-gu, Seoul
+
+<iframe src="/academicwebsite.github.io//files/2023 1학기_포트폴리오 최종_유시영-compressed.pdf" width="100%"></iframe>
